@@ -34,9 +34,13 @@ by leisquid
 
 衣领为深蓝色方领，没有抹胸。
 
+![](./resources/moke2021cos-003.png)
+
 襟线样式为金色二本，宽度为 8±1 mm 为宜；特别地，在衣领正面的左下方（穿着着角度的右下方）有角色的专属 logo。如下图。
 
 ![](./resources/moke2021cos-001.png)
+
+![](./resources/moke2021cos-004.png)
 
 领巾为蓝色丝带，打结挂在衣领内，宽度为 13±2 mm 为宜。
 
@@ -50,6 +54,8 @@ by leisquid
 
 中间配有八角形的金色纽扣。
 
+![](./resources/moke2021cos-002.png)
+
 ## 3. 下身
 
 ### 3.1 裤子
@@ -58,13 +64,19 @@ by leisquid
 
 裤腿处有卷起，并配有金色线条。
 
+![](./resources/moke2021cos-005.png)![](./resources/moke2021cos-006.png)
+
 腰部系有黑色状条带，并配有金色线条。
+
+![](./resources/moke2021cos-007.png)
 
 ### 3.2 袜子
 
 白色长袜，长度不过膝。
 
 每条腿的袜子上方（依然不过膝）各有条比衣领颜色更深的深蓝色的腿环，外侧有条状布料与长袜相连。
+
+![](./resources/moke2021cos-008.png)
 
 ### 3.3 鞋子
 
