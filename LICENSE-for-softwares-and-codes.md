@@ -658,3 +658,18 @@ You should also get your employer (if you work as a programmer) or
 school, if any, to sign a "copyright disclaimer" for the program, if
 necessary. For more information on this, and how to apply and follow
 the GNU AGPL, see <https://www.gnu.org/licenses/>.
+
+---
+
+## About Softwares and Source Codes in Leismoke
+
+**Copyright (c) 2023-24 Leisquid Li.**
+
+**The Softwares, Source Codes and Scripts in Leismoke** are **all licensed**
+**under the GNU Affero General Public License version 3** published by the Free
+Software Foundation and without any warranty for liability or particular
+purpose. You can modify and/or redistribute them
+**under the GNU Affero General Public License version 3** or
+**any later version** you want.
+
+For more details, please see <https://www.gnu.org/licenses/>.
