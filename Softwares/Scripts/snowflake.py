@@ -16,7 +16,7 @@
 ## License version 3 or any later version you want.
 ##
 ## License file can be found in this repository; if not, please see
-## <https://www.gnu.org/licenses/agpl-3.0.txt>
+## <https://www.gnu.org/licenses/agpl-3.0.txt>.
 
 ## Change history (most recent first):
 ## ===================================
