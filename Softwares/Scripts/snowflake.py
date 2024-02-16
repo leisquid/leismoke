@@ -5,7 +5,7 @@
 
 ## @file snowflake.py
 ## @brief Draw a snowflake on turtle with detailed comments.
-##        从某池沼中术运营复制过来，并加入了详细注释的电子雪花。
+##        从某中术运营复制过来，并加入了详细注释的电子雪花。
 ##
 ## Copyright (c) 2023-24 Leisquid Li.
 ##
