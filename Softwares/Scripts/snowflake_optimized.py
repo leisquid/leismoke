@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # coding=utf-8
 
 ## If you don't know, this is a Python script.
