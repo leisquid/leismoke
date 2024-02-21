@@ -22,7 +22,8 @@
 
 ## Change history (most recent first):
 ## ===================================
-## '24.2.16   new
+## '24. 2.21  edit snowflake default radius on line 83
+## '24. 2.16  new
 
 ## 导入 turtle 模块。这是一个借助 “小海龟” 来画图的模块。
 import turtle
@@ -76,9 +77,10 @@ def main():
     ## 设置 turtle 画线宽度为 5 像素。
     turtle.width(5)
 
-    ## 调用 snowflake() 来画雪花了。指定雪花的 “半径” 为 180，小花瓣的层次数
+    ## 调用 snowflake() 来画雪花了。指定雪花的 “半径” 为 486，小花瓣的层次数
     ## 为 5。
-    snowflake(180, 5)
+    ## ※  486 = 3^5 * 2
+    snowflake(486, 5)
 
 ## if 判断：判断在 Python 中，当前执行的脚本是否作为主程序运行（因为可能会存在
 ## 这个脚本是被其他程序调用的情况），是的话则执行下面被缩进的代码块中的代码。
