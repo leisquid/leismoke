@@ -143,4 +143,4 @@ logo 图案及位置尽量与官方设计一致。如下图。
 
 ## 特别感谢
 
-**Hiroki Gong**、**UMPMOK** 两位大佬参与本次服装的分析。
+**[Hiroki Gong](https://space.bilibili.com/32721189)**、**[UMPMOK](https://space.bilibili.com/471489638)** 两位大佬参与本次服装的分析。
