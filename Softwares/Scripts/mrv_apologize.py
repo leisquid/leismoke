@@ -33,7 +33,7 @@ Vsinger全体制作及运营团队
 """
 
 def usage():
-    print("用法：$0 歌手名 周年 年(yy) 月(M) 日(d)")
+    print("用法：%s 歌手名 周年 年(yy) 月(M) 日(d)" % sys.argv[0])
     exit(114)
 
 
