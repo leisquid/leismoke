@@ -39,7 +39,7 @@ main() {
 }
 
 if [ $# -eq 5 ]; then
-main $*
+    main $*
 else
     usage
 fi
