@@ -6,7 +6,7 @@
 ##
 ## Copyright (c) 2023-24 Leisquid Li.
 ##
-## This Shell script is licensed under the GNU Affero General Public License
+## This Python script is licensed under the GNU Affero General Public License
 ## version 3 published by the Free Software Foundation and without any warranty
 ## for liability or particular purpose.
 ##
