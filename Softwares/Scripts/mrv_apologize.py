@@ -20,6 +20,7 @@
 ## ===================================
 ## '24. 3. 8  new
 
+## 导入 sys 模块，这里用来处理从命令行传入的参数。
 import sys
 
 APOLOGY_TEXT: str = """针对今晚%s%s周年生日会直播中出现的“延迟播出”“信源中断”等问题，Vsinger团队在此向大家致以诚挚歉意，非常抱歉在今天这个日子影响了各位的庆生心情，给大家带来了不好的体验，辜负了你们对%s的关爱，十分抱歉。
@@ -33,16 +34,24 @@ Vsinger全体制作及运营团队
 """
 
 def usage():
+    ## 打印用法。
+    ## sys.argv[0] 表示被执行的脚本名。
     print("用法：%s 歌手名 周年 年(yy) 月(M) 日(d)" % sys.argv[0])
     exit(114)
 
 
 def main():
+    ## 如果命令行传入参数数量等于 6（脚本名算 1 个参数，另后面还有 5 个）
     if (len(sys.argv) == 6):
+        ## 格式化并打印文本
         print(APOLOGY_TEXT % (sys.argv[1], sys.argv[2], sys.argv[1], sys.argv[1], sys.argv[2], sys.argv[1], int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[5])))
+    ## 否则
     else:
+        ## 提醒用法
         usage()
 
 if (__name__ == "__main__"):
+    ## 执行自定义的 main 函数。
     main()
+    ## 没了
     exit(0)
